@@ -3,7 +3,7 @@ How to Access Bitdefender Login Account Step by Step?
 
 Protecting your digital life starts with understanding how to use your Bitdefender login account effectively. Bitdefender is a trusted name in cybersecurity, offering advanced antivirus protection, online privacy tools, and real time threat detection. Your Bitdefender account acts as the central hub where you manage subscriptions, monitor device security, and control protection settings.
 
-.. image:: login-noww.png
+.. image:: login-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
